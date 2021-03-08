@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Balance",
+    "image": "https://github.com/baello2020/Updated_Portfolio_Page/blob/main/assets/images/nature-1.jpg?raw=true",
+    "project": "Mood Tracking App",
+    "location": "https://github.com/baello2020"
+  },
+  {
+    "id": 2,
+    "name": "Coding Quiz",
+    "image": "https://github.com/baello2020/Updated_Portfolio_Page/blob/main/assets/images/nature-2.jpg?raw=true",
+    "project": "Javascript Quiz",
+    "location": "https://github.com/baello2020"
+  },
+  {
+    "id": 3,
+    "name": "Password Generator",
+    "image": "https://github.com/baello2020/Updated_Portfolio_Page/blob/main/assets/images/nature-3.jpg?raw=true",
+    "project": "Random Password generator",
+    "location": "https://github.com/baello2020"
+  },
+  {
+    "id": 4,
+    "name": "Survivor Bootcamp Edition",
+    "image": "https://github.com/baello2020/Updated_Portfolio_Page/blob/main/assets/images/nature-4.jpg?raw=true",
+    "project": "A Coding Bootcamp resource",
+    "location": "https://github.com/baello2020"
+  },
+  {
+    "id": 5,
+    "name": "Weather Dashboard",
+    "image": "https://github.com/baello2020/Updated_Portfolio_Page/blob/main/assets/images/nature-5.jpg?raw=true",
+    "project": "A Weather Tracking App",
+    "location": "https://github.com/baello2020"
+  },
+  {
+    "id": 6,
+    "name": "Work Day Scheduler",
+    "image": "https://github.com/baello2020/Updated_Portfolio_Page/blob/main/assets/images/nature-7.jpg?raw=true",
+    "project": "A Daily Agenda",
+    "location": "https://github.com/baello2020"
+  }
+]
