@@ -12,10 +12,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.0"
   },
-<<<<<<< HEAD
-  "homepage": "https://baello2020.github.io/React_Portfolio",
-=======
->>>>>>> a114b24b8a8d150ef4be3e6cfdf2d32521ec41cb
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
