@@ -16,7 +16,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
-  "homepage": "https://jamierachael.github.io/react-portfolio",
+  "homepage": "https://baello2020.github.io/React_Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
